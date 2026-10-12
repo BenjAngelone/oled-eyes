@@ -1,0 +1,6 @@
+.pio/
+include/secrets.h
+__pycache__/
+tools/preview.exe
+tools/*.obj
+tools/_tmp.raw
